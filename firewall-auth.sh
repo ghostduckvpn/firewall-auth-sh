@@ -1,9 +1,9 @@
 #!/bin/sh
 
-username="username"
-password="password"
+username="gabrielvlp"
+password="eliana33"
 
-google="http://74.125.236.208"
+google="191.234.181.174"
 curl_opts="-k -m3 -s --stderr /dev/null"
 
 trap logout SIGHUP SIGINT SIGQUIT SIGTERM
